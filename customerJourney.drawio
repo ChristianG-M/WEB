@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-29T22:48:35.541Z" agent="5.0 (X11)" etag="-OzhXyEoCLkq1O4aUumM" version="13.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-30T00:03:22.701Z" agent="5.0 (X11)" etag="xnX5XgnccZnVWMW-isbV" version="13.7.6" type="github">
   <diagram id="gcEh9_CyaGoKQu0xr7bp" name="Page-1">
-    <mxGraphModel dx="950" dy="557" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1148" dy="673" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -51,6 +51,15 @@
         </mxCell>
         <mxCell id="dCMF38waMmdHfkV4d47o-16" value="-" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;rotation=-90;fillColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="-65" y="700" width="209.99" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dCMF38waMmdHfkV4d47o-17" value="4ta semana de atraso" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=35;" vertex="1" parent="1">
+          <mxGeometry x="77.67" y="60" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dCMF38waMmdHfkV4d47o-23" value="" style="endArrow=none;dashed=1;html=1;opacity=50;exitX=0.192;exitY=0.998;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.192;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dCMF38waMmdHfkV4d47o-9" target="dCMF38waMmdHfkV4d47o-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="238" y="813" as="sourcePoint" />
+            <mxPoint x="238" y="60" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
