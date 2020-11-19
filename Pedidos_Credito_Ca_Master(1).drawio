@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-19T22:57:39.918Z" agent="5.0 (X11)" etag="9Koog1yJCTSxbvwcUJmY" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-20T00:02:10.611Z" agent="5.0 (X11)" etag="on97JjePG7n8P60IacyT" version="13.9.9" type="github">
   <diagram id="7vvKM-h0RmsxbN4j_LpW" name="Page-1">
-    <mxGraphModel dx="2296" dy="2676" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="65" dy="1599" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -266,7 +266,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hutU6tRgzpRyq-CcQM-8-322" value="RCREDITO.TASRTIMIENTOPED" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="hutU6tRgzpRyq-CcQM-8-296" vertex="1" collapsed="1">
-          <mxGeometry x="41.75" y="164" width="226" height="30" as="geometry">
+          <mxGeometry x="14" y="164" width="253.75" height="30" as="geometry">
             <mxRectangle x="41.75" y="164" width="188" height="256" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -311,39 +311,14 @@
         <mxCell id="hutU6tRgzpRyq-CcQM-8-335" value="FIPAISID&#xa;FICANAL&#xa;FISUCURSAL&#xa;FINOPEDIDO&#xa;FCEMPNUMORIGINA" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-333" vertex="1">
           <mxGeometry x="30" width="158" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hutU6tRgzpRyq-CcQM-8-336" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="hutU6tRgzpRyq-CcQM-8-296" source="hutU6tRgzpRyq-CcQM-8-337" target="hutU6tRgzpRyq-CcQM-8-322" edge="1">
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-336" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="hutU6tRgzpRyq-CcQM-8-296" target="hutU6tRgzpRyq-CcQM-8-322" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="287.75" y="121" />
               <mxPoint x="287.75" y="179" />
             </Array>
+            <mxPoint x="267.75" y="121" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="hutU6tRgzpRyq-CcQM-8-337" value="COMP.PEDIDOS_CREDITO_CA" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#99CCFF;strokeColor=#99CCFF;" parent="hutU6tRgzpRyq-CcQM-8-296" vertex="1" collapsed="1">
-          <mxGeometry x="41.75" y="106" width="226" height="30" as="geometry">
-            <mxRectangle x="41.75" y="106" width="188" height="1276" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hutU6tRgzpRyq-CcQM-8-338" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="hutU6tRgzpRyq-CcQM-8-337" vertex="1">
-          <mxGeometry y="30" width="188" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="hutU6tRgzpRyq-CcQM-8-339" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-338" vertex="1">
-          <mxGeometry width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="hutU6tRgzpRyq-CcQM-8-340" value="UniqueID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-338" vertex="1">
-          <mxGeometry x="30" width="158" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="hutU6tRgzpRyq-CcQM-8-341" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="hutU6tRgzpRyq-CcQM-8-337" vertex="1">
-          <mxGeometry y="60" width="188" height="1165" as="geometry" />
-        </mxCell>
-        <mxCell id="hutU6tRgzpRyq-CcQM-8-342" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-341" vertex="1">
-          <mxGeometry width="30" height="1165" as="geometry" />
-        </mxCell>
-        <mxCell id="hutU6tRgzpRyq-CcQM-8-343" value="FIPAISID&#xa;FICANAL&#xa;FISUCURSAL&#xa;FINOPEDIDO&#xa;FINGCIOID&#xa;FINOTIENDA&#xa;FICTEID&#xa;FIDIGITOVER&#xa;FDFECHASURT&#xa;FDINIPER&#xa;FNIMPORTEABONO&#xa;FDULTPAGO&#xa;FNIMPORTEULTPAGO&#xa;FIPLAZO&#xa;FIPERIODO&#xa;FNENGANCHE&#xa;FNSALDO&#xa;FNMORATORIOS&#xa;FNSALDOATRASADO&#xa;FIPERVENCIDOS&#xa;FIPERINACTIVIDAD&#xa;FIPERATRASO&#xa;FIPERATRAACUM&#xa;FICLASIFCUENTA&#xa;FINOGESTIONES&#xa;FIGESTSINCOBRO&#xa;FDULTIMAVISITA&#xa;FIRESULUVISITA&#xa;FINOPAGOS&#xa;FDULTIMOABONO&#xa;FNULTIMOABONO&#xa;FNULTABONOMORA&#xa;FNBONIFICA&#xa;FNIMPPAGARBONIF&#xa;FIPEDSTATUS&#xa;FDFECULTACT&#xa;FIDESPID&#xa;FNSDOANTMORA&#xa;FINOVECESATR&#xa;FIRUTA&#xa;FDCSALDOCAPITAL&#xa;FDCINTXFINANCIAR&#xa;FDCSALDOORIGINAL&#xa;FDCINTTOTXATRASO&#xa;FIPAGOSCAPITAL&#xa;FIPAGOSINTERESES&#xa;FCOBSERVACION&#xa;FIDEPTOID&#xa;FIZONAID&#xa;FCEMPNUM&#xa;FDFECHACANC&#xa;FNCREDVARIOS&#xa;FISEMATRAS&#xa;FITIPODEPTO&#xa;FIUNIDADNEGOCIO&#xa;FNPRECIOD&#xa;FIIDZONACOBZA&#xa;FIIDORIGEN&#xa;FNIMPTOTVENTA&#xa;FIEMISION&#xa;FISERIE&#xa;FIPERACTUAL&#xa;FIPERCORRIDO&#xa;FISTATUSEMISION&#xa;FCFOLIOPARAM&#xa;FITIPOCLIENTE&#xa;FIDIASSERV&#xa;FIDIASGRACIA&#xa;FISTATUSREGIONAL&#xa;FCEMPNUMET&#xa;FNIMPPAGADO&#xa;FNIMPDEVENG&#xa;FNULTIMPMORA&#xa;FCSTATCARTERA&#xa;FCCLASCAR&#xa;FISALDOIDNCALVENC&#xa;FISOLICITUDID&#xa;FIPAISCU&#xa;FICANALCU&#xa;FISUCURSALCU&#xa;FIFOLIO&#xa;FNCOBROSEM&#xa;FNCOBROACUM&#xa;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-341" vertex="1">
-          <mxGeometry x="30" width="158" height="1165" as="geometry" />
-        </mxCell>
-        <mxCell id="hutU6tRgzpRyq-CcQM-8-344" value="Se realiza una búsqueda del empleado que origino el pedido en la tabla TASRTIMIENTOPED " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hutU6tRgzpRyq-CcQM-8-337" vertex="1">
-          <mxGeometry y="1225" width="188" height="51" as="geometry" />
         </mxCell>
         <mxCell id="hutU6tRgzpRyq-CcQM-8-345" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="hutU6tRgzpRyq-CcQM-8-296" source="hutU6tRgzpRyq-CcQM-8-347" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -358,6 +333,29 @@
         </mxCell>
         <mxCell id="ZbzUIR6lRue4rK1-tcVg-292" value="En esta tabla se encuentra en numero del empleado que origina el pedido" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hutU6tRgzpRyq-CcQM-8-296">
           <mxGeometry x="634.75" y="76" width="163" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbzUIR6lRue4rK1-tcVg-293" value="COMP.PEDIDOS_CREDITO_CA_SURTIDOS" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;strokeColor=#E1D5E7;fillColor=#E1D5E7;" vertex="1" collapsed="1" parent="hutU6tRgzpRyq-CcQM-8-296">
+          <mxGeometry x="14" y="105" width="253.75" height="30" as="geometry">
+            <mxRectangle x="572.5" y="138.75" width="210.66" height="245.03309885660804" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZbzUIR6lRue4rK1-tcVg-294" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZbzUIR6lRue4rK1-tcVg-293">
+          <mxGeometry y="30" width="210.66" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbzUIR6lRue4rK1-tcVg-295" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" vertex="1" parent="ZbzUIR6lRue4rK1-tcVg-294">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbzUIR6lRue4rK1-tcVg-296" value="UniqueID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="ZbzUIR6lRue4rK1-tcVg-294">
+          <mxGeometry x="30" width="180.66" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbzUIR6lRue4rK1-tcVg-297" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZbzUIR6lRue4rK1-tcVg-293">
+          <mxGeometry y="60" width="210.66" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbzUIR6lRue4rK1-tcVg-298" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="ZbzUIR6lRue4rK1-tcVg-297">
+          <mxGeometry width="30" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbzUIR6lRue4rK1-tcVg-299" value="FIPAISID&#xa;FICANAL&#xa;FISUCURSAL&#xa;FINOPEDIDO&#xa;FICTECU&#xa;FIPAISCU&#xa;CANALCU&#xa;FOLIOCU&#xa;SUCURSALCU&#xa;FINGCIOID&#xa;FICTEID&#xa;FINOTIENDA&#xa;FIDIGITOVER&#xa;FDFECHASURT&#xa;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ZbzUIR6lRue4rK1-tcVg-297">
+          <mxGeometry x="30" width="180.66" height="185" as="geometry" />
         </mxCell>
         <mxCell id="hutU6tRgzpRyq-CcQM-8-425" value="wkf_BUSCA_TABITPEDSURTLIQ" style="swimlane;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="2762" y="-123" width="871" height="290" as="geometry">
@@ -542,7 +540,7 @@
             <mxPoint x="306.25" y="145" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZbzUIR6lRue4rK1-tcVg-25" value="Se realiza la búsqueda de la información del pedido creado en la tienda gestora" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZbzUIR6lRue4rK1-tcVg-26">
+        <mxCell id="ZbzUIR6lRue4rK1-tcVg-25" value="Se realiza la búsqueda de la información del pedido vendedor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZbzUIR6lRue4rK1-tcVg-26">
           <mxGeometry x="393.25" y="119.5" width="163" height="51" as="geometry" />
         </mxCell>
         <mxCell id="ZbzUIR6lRue4rK1-tcVg-77" value="wkf_BUSCA_TACRLPROMOCIONPRONTOPAGO" style="swimlane;startSize=23;" vertex="1" parent="1">
