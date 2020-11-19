@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-20T00:02:10.611Z" agent="5.0 (X11)" etag="on97JjePG7n8P60IacyT" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-20T00:02:34.013Z" agent="5.0 (X11)" etag="e5SkhLD3eZVo0R-f-Mk5" version="13.9.9" type="github">
   <diagram id="7vvKM-h0RmsxbN4j_LpW" name="Page-1">
-    <mxGraphModel dx="65" dy="1599" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="2921" dy="2977" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -261,7 +261,7 @@
           <mxGeometry x="627.5" y="84.75" width="157" height="56" as="geometry" />
         </mxCell>
         <mxCell id="hutU6tRgzpRyq-CcQM-8-296" value="wkf_BUSCA_TASRTIMIENTOPED" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="1736" y="205" width="871" height="286" as="geometry">
+          <mxGeometry x="2760" y="1643" width="871" height="286" as="geometry">
             <mxRectangle x="845" y="-123" width="229" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
