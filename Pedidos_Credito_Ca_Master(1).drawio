@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-19T19:59:52.836Z" agent="5.0 (X11)" etag="G9rzz89ZrE62GyIEWmWH" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-19T20:03:06.211Z" agent="5.0 (X11)" etag="cWcqM_2eTMMopUGuKa-O" version="13.9.9" type="github">
   <diagram id="7vvKM-h0RmsxbN4j_LpW" name="Page-1">
     <mxGraphModel dx="594" dy="1976" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -994,7 +994,7 @@
         <mxCell id="ZbzUIR6lRue4rK1-tcVg-272" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="ZbzUIR6lRue4rK1-tcVg-273" source="ZbzUIR6lRue4rK1-tcVg-269" target="ZbzUIR6lRue4rK1-tcVg-260">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZbzUIR6lRue4rK1-tcVg-269" value="Mediante workflows, se completara los campos faltantes para insertar los nuevos pedidos a la tabla master." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZbzUIR6lRue4rK1-tcVg-273">
+        <mxCell id="ZbzUIR6lRue4rK1-tcVg-269" value="Se realizauna busqueda de informacion de los pedidos liquidados, ademas de consultar en la tabla movimiento pedido el cobro semanal, cobro acumulado y el SDO_LIQ_RENOV" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZbzUIR6lRue4rK1-tcVg-273">
           <mxGeometry x="346" y="121.5" width="180" height="41" as="geometry" />
         </mxCell>
         <mxCell id="ZbzUIR6lRue4rK1-tcVg-270" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="ZbzUIR6lRue4rK1-tcVg-273" source="ZbzUIR6lRue4rK1-tcVg-246" target="ZbzUIR6lRue4rK1-tcVg-269">
