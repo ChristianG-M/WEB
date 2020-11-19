@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-19T19:40:28.447Z" agent="5.0 (X11)" etag="nm3nf0bU3tUWumERfDVA" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-19T19:40:54.324Z" agent="5.0 (X11)" etag="IB-s4HGMSJ7OxezbsVXL" version="13.9.9" type="github">
   <diagram id="7vvKM-h0RmsxbN4j_LpW" name="Page-1">
     <mxGraphModel dx="594" dy="1976" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -888,7 +888,7 @@
             <mxPoint x="3062" y="1769" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZbzUIR6lRue4rK1-tcVg-178" value="Se realiza la búsqueda de la información del empleado con tipo de operacion 108" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ZbzUIR6lRue4rK1-tcVg-178" value="Se realiza la búsqueda de la información de los pedidos reasignados por cambio de tienda" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3149" y="1743.5" width="163" height="51" as="geometry" />
         </mxCell>
         <mxCell id="ZbzUIR6lRue4rK1-tcVg-179" value="RCREDITO.REASIGNACION_DE_CUENTAS" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" collapsed="1" parent="1">
