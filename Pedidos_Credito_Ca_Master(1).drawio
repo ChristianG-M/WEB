@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-19T20:03:06.211Z" agent="5.0 (X11)" etag="cWcqM_2eTMMopUGuKa-O" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-19T20:03:30.947Z" agent="5.0 (X11)" etag="b4C4VOIG7yvwq1qQoiy1" version="13.9.9" type="github">
   <diagram id="7vvKM-h0RmsxbN4j_LpW" name="Page-1">
     <mxGraphModel dx="594" dy="1976" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -886,7 +886,7 @@
         <mxCell id="ZbzUIR6lRue4rK1-tcVg-238" value="FIPAIS&#xa;FICANAL&#xa;FISUCURSAL&#xa;FIFOLIO&#xa;FIFOLIOPARAMS&#xa;FINOPEDIDOSURT&#xa;FINOPEDIDOLIQ&#xa;FICANALS&#xa;FINOTIENDAS&#xa;FDREGISTRO&#xa;FIPAISTRAN&#xa;FICANALTRAN&#xa;FISUCURSALTRAN&#xa;FINOTRAN&#xa;FIPLAZO&#xa;FIPERCORRIDO&#xa;FNMONTOPREPAGO&#xa;FIESSEGURO&#xa;FINOPEDIDOPPSEG" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ZbzUIR6lRue4rK1-tcVg-236">
           <mxGeometry x="30" width="180.66" height="276" as="geometry" />
         </mxCell>
-        <mxCell id="ZbzUIR6lRue4rK1-tcVg-273" value="sp_PEDIDOS_LIQ" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="ZbzUIR6lRue4rK1-tcVg-273" value="wkf_BUSCA_PEDIDOS_CREDITO_LIQUIDADOS" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="4830" y="-119" width="871" height="284" as="geometry">
             <mxRectangle x="845" y="-123" width="229" height="23" as="alternateBounds" />
           </mxGeometry>
