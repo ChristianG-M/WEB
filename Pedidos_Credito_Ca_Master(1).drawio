@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-19T19:50:05.997Z" agent="5.0 (X11)" etag="v7oz5imu-Gv7pnEVD2WD" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-19T19:50:51.888Z" agent="5.0 (X11)" etag="UR52VOv3ZHYoYIyAk1tr" version="13.9.9" type="github">
   <diagram id="7vvKM-h0RmsxbN4j_LpW" name="Page-1">
     <mxGraphModel dx="153" dy="1726" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -824,13 +824,13 @@
           <mxGeometry x="30" width="160" height="382" as="geometry" />
         </mxCell>
         <mxCell id="ZbzUIR6lRue4rK1-tcVg-212" value="sp_PEDIDOS_LIQ" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="3835" y="-121" width="871" height="288" as="geometry">
+          <mxGeometry x="3835" y="-121" width="871" height="284" as="geometry">
             <mxRectangle x="845" y="-123" width="229" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZbzUIR6lRue4rK1-tcVg-221" value="COMP.PEDIDOS_CREDITO_LIQ" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;strokeColor=#E1D5E7;fillColor=#E1D5E7;" vertex="1" collapsed="1" parent="ZbzUIR6lRue4rK1-tcVg-212">
           <mxGeometry x="572.5" y="138.75" width="267" height="30" as="geometry">
-            <mxRectangle x="572.5" y="138.75" width="210.66" height="245.03309885660804" as="alternateBounds" />
+            <mxRectangle x="572.5" y="138.75" width="210.66" height="133.5158574772979" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZbzUIR6lRue4rK1-tcVg-222" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZbzUIR6lRue4rK1-tcVg-221">
@@ -843,13 +843,13 @@
           <mxGeometry x="30" width="180.66" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZbzUIR6lRue4rK1-tcVg-225" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZbzUIR6lRue4rK1-tcVg-221">
-          <mxGeometry y="60" width="210.66" height="185" as="geometry" />
+          <mxGeometry y="60" width="210.66" height="73" as="geometry" />
         </mxCell>
         <mxCell id="ZbzUIR6lRue4rK1-tcVg-226" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="ZbzUIR6lRue4rK1-tcVg-225">
-          <mxGeometry width="30" height="185" as="geometry" />
+          <mxGeometry width="30" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="ZbzUIR6lRue4rK1-tcVg-227" value="FIPAISID&#xa;FICANAL&#xa;FISUCURSAL&#xa;FINOPEDIDO&#xa;FICTECU&#xa;FIPAISCU&#xa;CANALCU&#xa;FOLIOCU&#xa;SUCURSALCU&#xa;FINGCIOID&#xa;FICTEID&#xa;FINOTIENDA&#xa;FIDIGITOVER&#xa;FDFECHASURT&#xa;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ZbzUIR6lRue4rK1-tcVg-225">
-          <mxGeometry x="30" width="180.66" height="185" as="geometry" />
+        <mxCell id="ZbzUIR6lRue4rK1-tcVg-227" value="FIPAISID&#xa;FICANAL&#xa;FISUCURSAL&#xa;FINOPEDIDO" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ZbzUIR6lRue4rK1-tcVg-225">
+          <mxGeometry x="30" width="180.66" height="73" as="geometry" />
         </mxCell>
         <mxCell id="ZbzUIR6lRue4rK1-tcVg-228" value="Mediante un Store Procedure se inserta solo la información de los pedidos liquidados" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZbzUIR6lRue4rK1-tcVg-212">
           <mxGeometry x="333.5" y="128.25" width="163" height="51" as="geometry" />
