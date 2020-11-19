@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-19T19:47:46.010Z" agent="5.0 (X11)" etag="K9zPciXnhlX2cRVlN3w-" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-19T19:50:05.997Z" agent="5.0 (X11)" etag="v7oz5imu-Gv7pnEVD2WD" version="13.9.9" type="github">
   <diagram id="7vvKM-h0RmsxbN4j_LpW" name="Page-1">
-    <mxGraphModel dx="594" dy="1976" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="153" dy="1726" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -823,38 +823,12 @@
         <mxCell id="ZbzUIR6lRue4rK1-tcVg-185" value="FISUCORIG&#xa;FINOPEDANT&#xa;FISUCDEST&#xa;FINOPEDNVO&#xa;FNPEDTOTALC&#xa;FNPEDTOTALT&#xa;FNPEDSALDOC&#xa;FNPEDSALDOT&#xa;FNPEDIMPMORC&#xa;FNPEDIMPMORT&#xa;FIPERACTC&#xa;FIPERACTT&#xa;FINOPERCORRC&#xa;FINOPERCORRT&#xa;FNIMPPAGC&#xa;FNIMPPAGT&#xa;FICANORIG&#xa;FICANDEST&#xa;FIPAISORIG&#xa;FIFOLIOPARAMANT&#xa;FIFOLIOPARAMNVO&#xa;FIPAISDEST&#xa;FINGCIOID&#xa;FINOTIENDA&#xa;FICTEID&#xa;FIDIGITOVER" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ZbzUIR6lRue4rK1-tcVg-183">
           <mxGeometry x="30" width="160" height="382" as="geometry" />
         </mxCell>
-        <mxCell id="ZbzUIR6lRue4rK1-tcVg-212" value="sp_SURTIDOS_SEMANA_VENCIDA" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="3806" y="207" width="871" height="288" as="geometry">
+        <mxCell id="ZbzUIR6lRue4rK1-tcVg-212" value="sp_PEDIDOS_LIQ" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="3835" y="-121" width="871" height="288" as="geometry">
             <mxRectangle x="845" y="-123" width="229" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZbzUIR6lRue4rK1-tcVg-213" value="COMP.PEDIDOS_CREDITO_CA" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#99CCFF;strokeColor=#99CCFF;" vertex="1" collapsed="1" parent="ZbzUIR6lRue4rK1-tcVg-212">
-          <mxGeometry x="31.5" y="138.75" width="226" height="30" as="geometry">
-            <mxRectangle x="1374" y="228" width="188" height="1225.7565892537436" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZbzUIR6lRue4rK1-tcVg-214" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZbzUIR6lRue4rK1-tcVg-213">
-          <mxGeometry y="30" width="188" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ZbzUIR6lRue4rK1-tcVg-215" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" vertex="1" parent="ZbzUIR6lRue4rK1-tcVg-214">
-          <mxGeometry width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ZbzUIR6lRue4rK1-tcVg-216" value="UniqueID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="ZbzUIR6lRue4rK1-tcVg-214">
-          <mxGeometry x="30" width="158" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ZbzUIR6lRue4rK1-tcVg-217" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZbzUIR6lRue4rK1-tcVg-213">
-          <mxGeometry y="60" width="188" height="1165" as="geometry" />
-        </mxCell>
-        <mxCell id="ZbzUIR6lRue4rK1-tcVg-218" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="ZbzUIR6lRue4rK1-tcVg-217">
-          <mxGeometry width="30" height="1165" as="geometry" />
-        </mxCell>
-        <mxCell id="ZbzUIR6lRue4rK1-tcVg-219" value="FIPAISID&#xa;FICANAL&#xa;FISUCURSAL&#xa;FINOPEDIDO&#xa;FINGCIOID&#xa;FINOTIENDA&#xa;FICTEID&#xa;FIDIGITOVER&#xa;FDFECHASURT&#xa;FDINIPER&#xa;FNIMPORTEABONO&#xa;FDULTPAGO&#xa;FNIMPORTEULTPAGO&#xa;FIPLAZO&#xa;FIPERIODO&#xa;FNENGANCHE&#xa;FNSALDO&#xa;FNMORATORIOS&#xa;FNSALDOATRASADO&#xa;FIPERVENCIDOS&#xa;FIPERINACTIVIDAD&#xa;FIPERATRASO&#xa;FIPERATRAACUM&#xa;FICLASIFCUENTA&#xa;FINOGESTIONES&#xa;FIGESTSINCOBRO&#xa;FDULTIMAVISITA&#xa;FIRESULUVISITA&#xa;FINOPAGOS&#xa;FDULTIMOABONO&#xa;FNULTIMOABONO&#xa;FNULTABONOMORA&#xa;FNBONIFICA&#xa;FNIMPPAGARBONIF&#xa;FIPEDSTATUS&#xa;FDFECULTACT&#xa;FIDESPID&#xa;FNSDOANTMORA&#xa;FINOVECESATR&#xa;FIRUTA&#xa;FDCSALDOCAPITAL&#xa;FDCINTXFINANCIAR&#xa;FDCSALDOORIGINAL&#xa;FDCINTTOTXATRASO&#xa;FIPAGOSCAPITAL&#xa;FIPAGOSINTERESES&#xa;FCOBSERVACION&#xa;FIDEPTOID&#xa;FIZONAID&#xa;FCEMPNUM&#xa;FDFECHACANC&#xa;FNCREDVARIOS&#xa;FISEMATRAS&#xa;FITIPODEPTO&#xa;FIUNIDADNEGOCIO&#xa;FNPRECIOD&#xa;FIIDZONACOBZA&#xa;FIIDORIGEN&#xa;FNIMPTOTVENTA&#xa;FIEMISION&#xa;FISERIE&#xa;FIPERACTUAL&#xa;FIPERCORRIDO&#xa;FISTATUSEMISION&#xa;FCFOLIOPARAM&#xa;FITIPOCLIENTE&#xa;FIDIASSERV&#xa;FIDIASGRACIA&#xa;FISTATUSREGIONAL&#xa;FCEMPNUMET&#xa;FNIMPPAGADO&#xa;FNIMPDEVENG&#xa;FNULTIMPMORA&#xa;FCSTATCARTERA&#xa;FCCLASCAR&#xa;FISALDOIDNCALVENC&#xa;FISOLICITUDID&#xa;FIPAISCU&#xa;FICANALCU&#xa;FISUCURSALCU&#xa;FIFOLIO&#xa;FNCOBROSEM&#xa;FNCOBROACUM&#xa;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ZbzUIR6lRue4rK1-tcVg-217">
-          <mxGeometry x="30" width="158" height="1165" as="geometry" />
-        </mxCell>
-        <mxCell id="ZbzUIR6lRue4rK1-tcVg-220" value="Tabla de pedidos, con dos campos extra, cobro semanal y cobro acumulado." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZbzUIR6lRue4rK1-tcVg-212">
-          <mxGeometry x="71" y="80.75" width="157" height="56" as="geometry" />
-        </mxCell>
-        <mxCell id="ZbzUIR6lRue4rK1-tcVg-221" value="COMP.PEDIDOS_CREDITO_CA_SURTIDOS" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;strokeColor=#E1D5E7;fillColor=#E1D5E7;" vertex="1" collapsed="1" parent="ZbzUIR6lRue4rK1-tcVg-212">
+        <mxCell id="ZbzUIR6lRue4rK1-tcVg-221" value="COMP.PEDIDOS_CREDITO_LIQ" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;strokeColor=#E1D5E7;fillColor=#E1D5E7;" vertex="1" collapsed="1" parent="ZbzUIR6lRue4rK1-tcVg-212">
           <mxGeometry x="572.5" y="138.75" width="267" height="30" as="geometry">
             <mxRectangle x="572.5" y="138.75" width="210.66" height="245.03309885660804" as="alternateBounds" />
           </mxGeometry>
@@ -877,20 +851,40 @@
         <mxCell id="ZbzUIR6lRue4rK1-tcVg-227" value="FIPAISID&#xa;FICANAL&#xa;FISUCURSAL&#xa;FINOPEDIDO&#xa;FICTECU&#xa;FIPAISCU&#xa;CANALCU&#xa;FOLIOCU&#xa;SUCURSALCU&#xa;FINGCIOID&#xa;FICTEID&#xa;FINOTIENDA&#xa;FIDIGITOVER&#xa;FDFECHASURT&#xa;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ZbzUIR6lRue4rK1-tcVg-225">
           <mxGeometry x="30" width="180.66" height="185" as="geometry" />
         </mxCell>
-        <mxCell id="ZbzUIR6lRue4rK1-tcVg-228" value="Mediante un Store Procedure se inserta solo la información de los pedidos surtidos a semana vencida." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZbzUIR6lRue4rK1-tcVg-212">
+        <mxCell id="ZbzUIR6lRue4rK1-tcVg-228" value="Mediante un Store Procedure se inserta solo la información de los pedidos liquidados" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZbzUIR6lRue4rK1-tcVg-212">
           <mxGeometry x="333.5" y="128.25" width="163" height="51" as="geometry" />
         </mxCell>
         <mxCell id="ZbzUIR6lRue4rK1-tcVg-229" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZbzUIR6lRue4rK1-tcVg-212" source="ZbzUIR6lRue4rK1-tcVg-228" target="ZbzUIR6lRue4rK1-tcVg-221">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZbzUIR6lRue4rK1-tcVg-230" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZbzUIR6lRue4rK1-tcVg-212" source="ZbzUIR6lRue4rK1-tcVg-213" target="ZbzUIR6lRue4rK1-tcVg-228">
+        <mxCell id="ZbzUIR6lRue4rK1-tcVg-230" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="ZbzUIR6lRue4rK1-tcVg-212" source="ZbzUIR6lRue4rK1-tcVg-232" target="ZbzUIR6lRue4rK1-tcVg-228">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="262.5" y="153.75" as="sourcePoint" />
+            <mxPoint x="257.5" y="153.75" as="sourcePoint" />
             <mxPoint x="572.5" y="153.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZbzUIR6lRue4rK1-tcVg-231" value="Tabla con las primary key de pedidos a semana vencida " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZbzUIR6lRue4rK1-tcVg-212">
-          <mxGeometry x="627.5" y="84.75" width="157" height="56" as="geometry" />
+        <mxCell id="ZbzUIR6lRue4rK1-tcVg-232" value="dbo.TABITPEDSURTLIQ" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;strokeColor=#10739e;fillColor=#b1ddf0;" vertex="1" collapsed="1" parent="ZbzUIR6lRue4rK1-tcVg-212">
+          <mxGeometry x="77" y="138.75" width="176" height="30" as="geometry">
+            <mxRectangle x="657.5" y="128" width="210.66" height="339.25" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZbzUIR6lRue4rK1-tcVg-233" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZbzUIR6lRue4rK1-tcVg-232">
+          <mxGeometry y="30" width="210.66" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbzUIR6lRue4rK1-tcVg-234" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" vertex="1" parent="ZbzUIR6lRue4rK1-tcVg-233">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbzUIR6lRue4rK1-tcVg-235" value="UniqueID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="ZbzUIR6lRue4rK1-tcVg-233">
+          <mxGeometry x="30" width="180.66" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbzUIR6lRue4rK1-tcVg-236" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZbzUIR6lRue4rK1-tcVg-232">
+          <mxGeometry y="60" width="210.66" height="276" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbzUIR6lRue4rK1-tcVg-237" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="ZbzUIR6lRue4rK1-tcVg-236">
+          <mxGeometry width="30" height="276" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbzUIR6lRue4rK1-tcVg-238" value="FIPAIS&#xa;FICANAL&#xa;FISUCURSAL&#xa;FIFOLIO&#xa;FIFOLIOPARAMS&#xa;FINOPEDIDOSURT&#xa;FINOPEDIDOLIQ&#xa;FICANALS&#xa;FINOTIENDAS&#xa;FDREGISTRO&#xa;FIPAISTRAN&#xa;FICANALTRAN&#xa;FISUCURSALTRAN&#xa;FINOTRAN&#xa;FIPLAZO&#xa;FIPERCORRIDO&#xa;FNMONTOPREPAGO&#xa;FIESSEGURO&#xa;FINOPEDIDOPPSEG" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ZbzUIR6lRue4rK1-tcVg-236">
+          <mxGeometry x="30" width="180.66" height="276" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
