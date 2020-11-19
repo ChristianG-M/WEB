@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-19T19:23:25.310Z" agent="5.0 (X11)" etag="Dgkr6NZ2ehdhRh4EEGHU" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-19T19:23:43.308Z" agent="5.0 (X11)" etag="FG0f-f-ZrKILR2p4cm6E" version="13.9.9" type="github">
   <diagram id="7vvKM-h0RmsxbN4j_LpW" name="Page-1">
     <mxGraphModel dx="594" dy="1976" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -692,8 +692,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZbzUIR6lRue4rK1-tcVg-67" value="COMP.TACLRPRONTOPAGO" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;strokeColor=#ae4132;fillColor=#fad9d5;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="3397" y="929" width="214.5" height="30" as="geometry">
+        <mxCell id="ZbzUIR6lRue4rK1-tcVg-67" value="COMP.TACRLPROMOCIONPRONTOPAGO" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;strokeColor=#ae4132;fillColor=#fad9d5;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="3397" y="929" width="250" height="30" as="geometry">
             <mxRectangle x="3397" y="929" width="210.66" height="273.25" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
