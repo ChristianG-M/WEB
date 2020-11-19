@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-19T20:03:30.947Z" agent="5.0 (X11)" etag="b4C4VOIG7yvwq1qQoiy1" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-19T22:32:19.728Z" agent="5.0 (X11)" etag="GiqKqhUNaDBLJBesrwAn" version="13.9.9" type="github">
   <diagram id="7vvKM-h0RmsxbN4j_LpW" name="Page-1">
-    <mxGraphModel dx="594" dy="1976" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="465" dy="1726" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -355,6 +355,9 @@
         </mxCell>
         <mxCell id="hutU6tRgzpRyq-CcQM-8-347" value="Se realiza una búsqueda del empleado (enrolamiento) que origino el pedido en la tabla TASRTIMIENTOPED " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hutU6tRgzpRyq-CcQM-8-296" vertex="1">
           <mxGeometry x="338.75" y="124.5" width="163" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbzUIR6lRue4rK1-tcVg-292" value="En esta tabla se encuentra en numero del empleado que origina el pedido" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hutU6tRgzpRyq-CcQM-8-296">
+          <mxGeometry x="634.75" y="76" width="163" height="51" as="geometry" />
         </mxCell>
         <mxCell id="hutU6tRgzpRyq-CcQM-8-425" value="wkf_BUSCA_TABITPEDSURTLIQ" style="swimlane;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="2762" y="-123" width="871" height="290" as="geometry">
