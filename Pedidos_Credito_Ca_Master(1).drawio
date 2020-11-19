@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-19T19:57:37.171Z" agent="5.0 (X11)" etag="QrPsavHKTW8W7SK-oakO" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-19T19:58:11.382Z" agent="5.0 (X11)" etag="_kluiEBRpbpUAm2EPav8" version="13.9.9" type="github">
   <diagram id="7vvKM-h0RmsxbN4j_LpW" name="Page-1">
     <mxGraphModel dx="594" dy="1976" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -917,7 +917,7 @@
         <mxCell id="ZbzUIR6lRue4rK1-tcVg-245" value="FIPAISID&#xa;FICANAL&#xa;FISUCURSAL&#xa;FINOPEDIDO" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ZbzUIR6lRue4rK1-tcVg-243">
           <mxGeometry x="30" width="180.66" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="ZbzUIR6lRue4rK1-tcVg-268" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZbzUIR6lRue4rK1-tcVg-246" target="ZbzUIR6lRue4rK1-tcVg-260">
+        <mxCell id="ZbzUIR6lRue4rK1-tcVg-270" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="ZbzUIR6lRue4rK1-tcVg-246" target="ZbzUIR6lRue4rK1-tcVg-269">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZbzUIR6lRue4rK1-tcVg-246" value="RCREDITO.PEDIDOS_CREDITO" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" collapsed="1" parent="1">
@@ -989,8 +989,11 @@
         <mxCell id="ZbzUIR6lRue4rK1-tcVg-266" value="FIPAISID&#xa;FICANAL&#xa;FISUCURSAL&#xa;FINOPEDIDO&#xa;FIPLAZO&#xa;FITIPOCLIENTE&#xa;FIPERCORRIDOS&#xa;FDFECHASURT&#xa;FDCSALDOCAPITAL&#xa;FDCINTXFINANCIAR&#xa;FDCSALDOORIGINAL&#xa;FIUNIDADNEGOCIO&#xa;FNIMPORTEABONO&#xa;FNSALDOATRASADO&#xa;FISEMATRAS&#xa;FNSALDO&#xa;FNMORATORIOS&#xa;FICOBROSEM&#xa;FICOBROACUM&#xa;SDO_LIQ_RENOV" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ZbzUIR6lRue4rK1-tcVg-264">
           <mxGeometry x="30" width="180.66" height="295" as="geometry" />
         </mxCell>
+        <mxCell id="ZbzUIR6lRue4rK1-tcVg-272" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="ZbzUIR6lRue4rK1-tcVg-269" target="ZbzUIR6lRue4rK1-tcVg-260">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZbzUIR6lRue4rK1-tcVg-269" value="Mediante workflows, se completara los campos faltantes para insertar los nuevos pedidos a la tabla master." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="5309" y="80" width="180" height="41" as="geometry" />
+          <mxGeometry x="5274" y="5.5" width="180" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
