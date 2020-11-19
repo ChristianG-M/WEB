@@ -1,1 +1,551 @@
-<mxfile host="app.diagrams.net" modified="2020-11-19T19:05:24.511Z" agent="5.0 (X11)" etag="vBo55l6FIIG252w60H-h" version="13.9.9" type="github"><diagram id="7vvKM-h0RmsxbN4j_LpW" name="Page-1">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-19T19:05:53.526Z" agent="5.0 (X11)" etag="eVnsNe89lZP2eicoX5oW" version="13.9.9" type="github">
+  <diagram id="7vvKM-h0RmsxbN4j_LpW" name="Page-1">
+    <mxGraphModel dx="594" dy="1976" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TO6H9Lhz3oGzdz73a_7L-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TO6H9Lhz3oGzdz73a_7L-54" target="TO6H9Lhz3oGzdz73a_7L-82" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TO6H9Lhz3oGzdz73a_7L-54" value="COMP.PEDIDOS_CREDITO_CA_MASTER" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="4170" y="236" width="267" height="30" as="geometry">
+            <mxRectangle x="2504" y="228" width="210.66" height="1045" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TO6H9Lhz3oGzdz73a_7L-55" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="TO6H9Lhz3oGzdz73a_7L-54" vertex="1">
+          <mxGeometry y="30" width="210.66" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TO6H9Lhz3oGzdz73a_7L-56" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" parent="TO6H9Lhz3oGzdz73a_7L-55" vertex="1">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TO6H9Lhz3oGzdz73a_7L-57" value="UniqueID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" parent="TO6H9Lhz3oGzdz73a_7L-55" vertex="1">
+          <mxGeometry x="30" width="180.66" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TO6H9Lhz3oGzdz73a_7L-58" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="TO6H9Lhz3oGzdz73a_7L-54" vertex="1">
+          <mxGeometry y="60" width="210.66" height="935" as="geometry" />
+        </mxCell>
+        <mxCell id="TO6H9Lhz3oGzdz73a_7L-59" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" parent="TO6H9Lhz3oGzdz73a_7L-58" vertex="1">
+          <mxGeometry width="30" height="935" as="geometry" />
+        </mxCell>
+        <mxCell id="TO6H9Lhz3oGzdz73a_7L-60" value="FIPAIS&#xa;FICANAL&#xa;FISUCURSAL&#xa;FINOPEDIDO&#xa;FICTEID&#xa;FINOTIENDA&#xa;FIPLAZO&#xa;FDCSALDOCAPITAL&#xa;FDCINTXFINANCIAR&#xa;FIUNIDADNEGOCIO&#xa;FDFECHASURT&#xa;FNIMPORTEABONO&#xa;FIZONAGEO&#xa;FCEMPNUM&#xa;FIPLATAFORMA&#xa;FINOMVTO&#xa;FNMOVPIMP&#xa;FITIPOOP&#xa;FISUCORIG&#xa;FINOPEDANT&#xa;FCEMPNUMSURT&#xa;FCEMPNUMORIGINA&#xa;FCEMPNUMACT&#xa;FINOTIENDAVEND&#xa;FIPAGOPUNTUAL&#xa;FIESSEGURO &#xa;FINOPEDIDOPPSEG &#xa;FITIPOCLIENTE&#xa;SDO_ACTUAL&#xa;MORA_ACTUAL&#xa;SDO_ATRASADO &#xa;SDOTOT_INI&#xa;PERIODOS_CORRIDOS&#xa;SEGMENTOPEDIDO_LIQ&#xa;PEDIDO_SEGURO&#xa;PAISGEO&#xa;CUADRANTEGEO&#xa;ZONAGEO&#xa;FCEMPLEADO_TOP&#xa;BAZ_DIGEMPLEADO&#xa;BAZDIGCANALVEND&#xa;FINOPEDIDOVEND&#xa;EMPLEADOTOPVEND&#xa;FIPAISORIG&#xa;FICANORIG&#xa;EMPLEADOTOPCTO&#xa;COBRO_ACUMULADO_LIQ&#xa;COBRO_SEMANA_LIQ&#xa;SDO_LIQUIDADO_RENOV_LIQ&#xa;PLAZO_LIQ&#xa;TIPO_CLIENTE_LIQ&#xa;PERIODOS_CORRIDOS_LIQ&#xa;SURTIMIENTO_LIQ&#xa;CAP_INI_LIQ&#xa;INT_INI_LIQ&#xa;SDOTOT_INI_LIQ&#xa;FIUNIDADNEGOCIO_LIQ&#xa;ABONONORMAL_LIQ&#xa;SDO_ATRASADO_LIQ&#xa;SEM_ATRASO_LIQ&#xa;SDO_ACTUAL_LIQ&#xa;MORA_ACTUAL_LIQ&#xa;PRIMA_SEGURO&#xa;ATRASO_INI&#xa;EMPLEADO_SURTIO_LIQ" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="TO6H9Lhz3oGzdz73a_7L-58" vertex="1">
+          <mxGeometry x="30" width="180.66" height="935" as="geometry" />
+        </mxCell>
+        <mxCell id="TO6H9Lhz3oGzdz73a_7L-61" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="TO6H9Lhz3oGzdz73a_7L-54" vertex="1">
+          <mxGeometry y="995" width="210.66" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TO6H9Lhz3oGzdz73a_7L-62" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" parent="TO6H9Lhz3oGzdz73a_7L-61" vertex="1">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TO6H9Lhz3oGzdz73a_7L-63" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="TO6H9Lhz3oGzdz73a_7L-61" vertex="1">
+          <mxGeometry x="30" width="180.66" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TO6H9Lhz3oGzdz73a_7L-64" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="TO6H9Lhz3oGzdz73a_7L-54" vertex="1">
+          <mxGeometry y="1025" width="210.66" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TO6H9Lhz3oGzdz73a_7L-65" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" parent="TO6H9Lhz3oGzdz73a_7L-64" vertex="1">
+          <mxGeometry width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TO6H9Lhz3oGzdz73a_7L-66" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="TO6H9Lhz3oGzdz73a_7L-64" vertex="1">
+          <mxGeometry x="30" width="180.66" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XvfDKLHzEZaw35lS_-8k-10" value="Mediante workflows, se completara los campos faltantes para insertar los nuevos pedidos a la tabla master." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="3928" y="230" width="180" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="XvfDKLHzEZaw35lS_-8k-12" value="Tabla con todo el historico de los pedidos y los nuevos surtimientos." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="4226.5" y="190" width="154" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="TO6H9Lhz3oGzdz73a_7L-82" value="COMP.DATASET_BASE" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="4606" y="236" width="267" height="30" as="geometry">
+            <mxRectangle x="2940" y="228" width="210.66" height="1225.5824661254883" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TO6H9Lhz3oGzdz73a_7L-83" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="TO6H9Lhz3oGzdz73a_7L-82" vertex="1">
+          <mxGeometry y="30" width="210.66" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TO6H9Lhz3oGzdz73a_7L-84" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" parent="TO6H9Lhz3oGzdz73a_7L-83" vertex="1">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TO6H9Lhz3oGzdz73a_7L-85" value="UniqueID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" parent="TO6H9Lhz3oGzdz73a_7L-83" vertex="1">
+          <mxGeometry x="30" width="180.66" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TO6H9Lhz3oGzdz73a_7L-86" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="TO6H9Lhz3oGzdz73a_7L-82" vertex="1">
+          <mxGeometry y="60" width="210.66" height="1115" as="geometry" />
+        </mxCell>
+        <mxCell id="TO6H9Lhz3oGzdz73a_7L-87" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" parent="TO6H9Lhz3oGzdz73a_7L-86" vertex="1">
+          <mxGeometry width="30" height="1115" as="geometry" />
+        </mxCell>
+        <mxCell id="TO6H9Lhz3oGzdz73a_7L-88" value="﻿FIPAISID&#xa;FICANAL&#xa;FISUCURSAL&#xa;FINOPEDIDO&#xa;SURTIMIENTO&#xa;ABONONORMAL&#xa;PLAZO&#xa;SDO_ACTUAL&#xa;MORA_ACTUAL&#xa;SDO_ATRASADO&#xa;CAP_INI&#xa;INT_INI&#xa;SDOTOT_INI&#xa;FIUNIDADNEGOCIO&#xa;PERIODOS_CORRIDOS&#xa;PAISCU&#xa;CANALCU&#xa;SUCURSALCU&#xa;FOLIO&#xa;TIPO_CLIENTE&#xa;SEM_ATRASO&#xa;FINGCIOID&#xa;FINOTIENDA&#xa;FICTEID&#xa;FIDIGITOVER&#xa;FCEMPNUM&#xa;SEGMENTO&#xa;FIDEPTOID&#xa;ZONACOBZA&#xa;PEDIDO_LIQ&#xa;PEDIDO_SEGURO&#xa;PAISGEO&#xa;CUADRANTEGEO&#xa;ZONAGEO&#xa;FCEMPLEADO_TOP&#xa;COBRO_ACUMULADO&#xa;COBRO_SEMANA&#xa;BAZ_DIGEMPLEADO&#xa;BAZDIG&#xa;FCEMPNUMORIGINA&#xa;CANALVEND&#xa;FINOTIENDAVEND&#xa;FINOPEDIDOVEND&#xa;EMPLEADOTOPVEND&#xa;FIPAISORIG&#xa;FICANORIG&#xa;FISUCORIG&#xa;FINOPEDANT&#xa;EMPLEADOTOPCTO&#xa;COBRO_ACUMULADO_LIQ&#xa;COBRO_SEMANA_LIQ&#xa;SDO_LIQUIDADO_RENOV_LIQ&#xa;PLAZO_LIQ&#xa;TIPO_CLIENTE_LIQ&#xa;PERIODOS_CORRIDOS_LIQ&#xa;SURTIMIENTO_LIQ&#xa;CAP_INI_LIQ&#xa;INT_INI_LIQ&#xa;SDOTOT_INI_LIQ&#xa;FIUNIDADNEGOCIO_LIQ&#xa;ABONONORMAL_LIQ&#xa;SDO_ATRASADO_LIQ&#xa;SEM_ATRASO_LIQ&#xa;SDO_ACTUAL_LIQ&#xa;MORA_ACTUAL_LIQ&#xa;PRIMA_SEGURO&#xa;FIESSEGURO&#xa;ATRASO_INI&#xa;EMPLEADO_SURTIO_LIQ&#xa;PAGO_PUNTUAL&#xa;PAIS_SOL&#xa;CANAL_SOL&#xa;SUCURSAL_SOL&#xa;NUMSOLICITUD&#xa;TIPO_SOL&#xa;FECHA_AUT&#xa;MARCAS&#xa;EMP_SOL&#xa;EMP_AUT" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="TO6H9Lhz3oGzdz73a_7L-86" vertex="1">
+          <mxGeometry x="30" width="180.66" height="1115" as="geometry" />
+        </mxCell>
+        <mxCell id="TO6H9Lhz3oGzdz73a_7L-89" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="TO6H9Lhz3oGzdz73a_7L-82" vertex="1">
+          <mxGeometry y="1175" width="210.66" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TO6H9Lhz3oGzdz73a_7L-90" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" parent="TO6H9Lhz3oGzdz73a_7L-89" vertex="1">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TO6H9Lhz3oGzdz73a_7L-91" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="TO6H9Lhz3oGzdz73a_7L-89" vertex="1">
+          <mxGeometry x="30" width="180.66" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TO6H9Lhz3oGzdz73a_7L-92" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="TO6H9Lhz3oGzdz73a_7L-82" vertex="1">
+          <mxGeometry y="1205" width="210.66" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TO6H9Lhz3oGzdz73a_7L-93" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" parent="TO6H9Lhz3oGzdz73a_7L-92" vertex="1">
+          <mxGeometry width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TO6H9Lhz3oGzdz73a_7L-94" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="TO6H9Lhz3oGzdz73a_7L-92" vertex="1">
+          <mxGeometry x="30" width="180.66" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-56" value="wkf_COMPENSACION_MIGRACION" style="swimlane;" parent="1" vertex="1">
+          <mxGeometry x="845" y="-123" width="808" height="288" as="geometry">
+            <mxRectangle x="845" y="-123" width="229" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-161" value="RCREDITO.PEDIDOS_CREDITO_CA" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="hutU6tRgzpRyq-CcQM-8-56" vertex="1" collapsed="1">
+          <mxGeometry x="27" y="114.75" width="222" height="30" as="geometry">
+            <mxRectangle x="862" y="204" width="190" height="1200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-162" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="hutU6tRgzpRyq-CcQM-8-161" vertex="1">
+          <mxGeometry y="30" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-163" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-162" vertex="1">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-164" value="UniqueID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-162" vertex="1">
+          <mxGeometry x="30" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-165" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="hutU6tRgzpRyq-CcQM-8-161" vertex="1">
+          <mxGeometry y="60" width="190" height="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-166" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-165" vertex="1">
+          <mxGeometry width="30" height="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-167" value="FIPAISID&#xa;FICANAL&#xa;FISUCURSAL&#xa;FINOPEDIDO&#xa;FINGCIOID&#xa;FINOTIENDA&#xa;FICTEID&#xa;FIDIGITOVER&#xa;FDFECHASURT&#xa;FDINIPER&#xa;FNIMPORTEABONO&#xa;FDULTPAGO&#xa;FNIMPORTEULTPAGO&#xa;FIPLAZO&#xa;FIPERIODO&#xa;FNENGANCHE&#xa;FNSALDO&#xa;FNMORATORIOS&#xa;FNSALDOATRASADO&#xa;FIPERVENCIDOS&#xa;FIPERINACTIVIDAD&#xa;FIPERATRASO&#xa;FIPERATRAACUM&#xa;FICLASIFCUENTA&#xa;FINOGESTIONES&#xa;FIGESTSINCOBRO&#xa;FDULTIMAVISITA&#xa;FIRESULUVISITA&#xa;FINOPAGOS&#xa;FDULTIMOABONO&#xa;FNULTIMOABONO&#xa;FNULTABONOMORA&#xa;FNBONIFICA&#xa;FNIMPPAGARBONIF&#xa;FIPEDSTATUS&#xa;FDFECULTACT&#xa;FIDESPID&#xa;FNSDOANTMORA&#xa;FINOVECESATR&#xa;FIRUTA&#xa;FDCSALDOCAPITAL&#xa;FDCINTXFINANCIAR&#xa;FDCSALDOORIGINAL&#xa;FDCINTTOTXATRASO&#xa;FIPAGOSCAPITAL&#xa;FIPAGOSINTERESES&#xa;FCOBSERVACION&#xa;FIDEPTOID&#xa;FIZONAID&#xa;FCEMPNUM&#xa;FDFECHACANC&#xa;FNCREDVARIOS&#xa;FISEMATRAS&#xa;FITIPODEPTO&#xa;FIUNIDADNEGOCIO&#xa;FNPRECIOD&#xa;FIIDZONACOBZA&#xa;FIIDORIGEN&#xa;FNIMPTOTVENTA&#xa;FIEMISION&#xa;FISERIE&#xa;FIPERACTUAL&#xa;FIPERCORRIDO&#xa;FISTATUSEMISION&#xa;FCFOLIOPARAM&#xa;FITIPOCLIENTE&#xa;FIDIASSERV&#xa;FIDIASGRACIA&#xa;FISTATUSREGIONAL&#xa;FCEMPNUMET&#xa;FNIMPPAGADO&#xa;FNIMPDEVENG&#xa;FNULTIMPMORA&#xa;FCSTATCARTERA&#xa;FCCLASCAR&#xa;FISALDOIDNCALVENC&#xa;FISOLICITUDID&#xa;FIPAISCU&#xa;FICANALCU&#xa;FISUCURSALCU&#xa;FIFOLIO" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-165" vertex="1">
+          <mxGeometry x="30" width="160" height="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-168" value="COMP.PEDIDOS_CREDITO_CA" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#99CCFF;strokeColor=#99CCFF;" parent="hutU6tRgzpRyq-CcQM-8-56" vertex="1" collapsed="1">
+          <mxGeometry x="539" y="138.75" width="226" height="30" as="geometry">
+            <mxRectangle x="1374" y="228" width="188" height="1225.7565892537436" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-169" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="hutU6tRgzpRyq-CcQM-8-168" vertex="1">
+          <mxGeometry y="30" width="188" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-170" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-169" vertex="1">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-171" value="UniqueID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-169" vertex="1">
+          <mxGeometry x="30" width="158" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-172" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="hutU6tRgzpRyq-CcQM-8-168" vertex="1">
+          <mxGeometry y="60" width="188" height="1165" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-173" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-172" vertex="1">
+          <mxGeometry width="30" height="1165" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-174" value="FIPAISID&#xa;FICANAL&#xa;FISUCURSAL&#xa;FINOPEDIDO&#xa;FINGCIOID&#xa;FINOTIENDA&#xa;FICTEID&#xa;FIDIGITOVER&#xa;FDFECHASURT&#xa;FDINIPER&#xa;FNIMPORTEABONO&#xa;FDULTPAGO&#xa;FNIMPORTEULTPAGO&#xa;FIPLAZO&#xa;FIPERIODO&#xa;FNENGANCHE&#xa;FNSALDO&#xa;FNMORATORIOS&#xa;FNSALDOATRASADO&#xa;FIPERVENCIDOS&#xa;FIPERINACTIVIDAD&#xa;FIPERATRASO&#xa;FIPERATRAACUM&#xa;FICLASIFCUENTA&#xa;FINOGESTIONES&#xa;FIGESTSINCOBRO&#xa;FDULTIMAVISITA&#xa;FIRESULUVISITA&#xa;FINOPAGOS&#xa;FDULTIMOABONO&#xa;FNULTIMOABONO&#xa;FNULTABONOMORA&#xa;FNBONIFICA&#xa;FNIMPPAGARBONIF&#xa;FIPEDSTATUS&#xa;FDFECULTACT&#xa;FIDESPID&#xa;FNSDOANTMORA&#xa;FINOVECESATR&#xa;FIRUTA&#xa;FDCSALDOCAPITAL&#xa;FDCINTXFINANCIAR&#xa;FDCSALDOORIGINAL&#xa;FDCINTTOTXATRASO&#xa;FIPAGOSCAPITAL&#xa;FIPAGOSINTERESES&#xa;FCOBSERVACION&#xa;FIDEPTOID&#xa;FIZONAID&#xa;FCEMPNUM&#xa;FDFECHACANC&#xa;FNCREDVARIOS&#xa;FISEMATRAS&#xa;FITIPODEPTO&#xa;FIUNIDADNEGOCIO&#xa;FNPRECIOD&#xa;FIIDZONACOBZA&#xa;FIIDORIGEN&#xa;FNIMPTOTVENTA&#xa;FIEMISION&#xa;FISERIE&#xa;FIPERACTUAL&#xa;FIPERCORRIDO&#xa;FISTATUSEMISION&#xa;FCFOLIOPARAM&#xa;FITIPOCLIENTE&#xa;FIDIASSERV&#xa;FIDIASGRACIA&#xa;FISTATUSREGIONAL&#xa;FCEMPNUMET&#xa;FNIMPPAGADO&#xa;FNIMPDEVENG&#xa;FNULTIMPMORA&#xa;FCSTATCARTERA&#xa;FCCLASCAR&#xa;FISALDOIDNCALVENC&#xa;FISOLICITUDID&#xa;FIPAISCU&#xa;FICANALCU&#xa;FISUCURSALCU&#xa;FIFOLIO&#xa;FNCOBROSEM&#xa;FNCOBROACUM&#xa;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-172" vertex="1">
+          <mxGeometry x="30" width="158" height="1165" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=classic;startFill=1;" parent="hutU6tRgzpRyq-CcQM-8-56" source="hutU6tRgzpRyq-CcQM-8-176" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="269" y="153.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-176" value="Extracción de los datos, todas las semanas los días lunes." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hutU6tRgzpRyq-CcQM-8-56" vertex="1">
+          <mxGeometry x="318" y="100.25" width="160" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="hutU6tRgzpRyq-CcQM-8-56" source="hutU6tRgzpRyq-CcQM-8-176" target="hutU6tRgzpRyq-CcQM-8-168" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-177" value="Tabla de pedidos, con dos campos extra, cobro semanal y cobro acumulado." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hutU6tRgzpRyq-CcQM-8-56" vertex="1">
+          <mxGeometry x="578.5" y="80.75" width="157" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="hutU6tRgzpRyq-CcQM-8-56" source="hutU6tRgzpRyq-CcQM-8-179" target="hutU6tRgzpRyq-CcQM-8-161" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="269" y="177.75" />
+              <mxPoint x="269" y="129.75" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-179" value="RCREDITO.MOVIMIENTO_PEDIDO" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="hutU6tRgzpRyq-CcQM-8-56" vertex="1" collapsed="1">
+          <mxGeometry x="27" y="162.75" width="222" height="30" as="geometry">
+            <mxRectangle x="862" y="252" width="190" height="253" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-180" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="hutU6tRgzpRyq-CcQM-8-179" vertex="1">
+          <mxGeometry y="30" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-181" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-180" vertex="1">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-182" value="UniqueID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-180" vertex="1">
+          <mxGeometry x="30" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-183" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="hutU6tRgzpRyq-CcQM-8-179" vertex="1">
+          <mxGeometry y="60" width="190" height="193" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-184" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-183" vertex="1">
+          <mxGeometry width="30" height="193" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-185" value="FIPAISID&#xa;FICANAL&#xa;FISUCURSAL&#xa;FINOPEDIDO&#xa;FINOMOVTO&#xa;FINOTRANSAC&#xa;FITIPOOP&#xa;FDFECMOVTOPED&#xa;FIMOVPCARABO&#xa;FNMOVPIMP&#xa;FCUSERID&#xa;FCWS&#xa;FICONCEPMOV" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-183" vertex="1">
+          <mxGeometry x="30" width="160" height="193" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-186" value="sp_SURTIDOS_SEMANA_VENCIDA" style="swimlane;" parent="1" vertex="1">
+          <mxGeometry x="1736" y="-123" width="871" height="288" as="geometry">
+            <mxRectangle x="845" y="-123" width="229" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-272" value="COMP.PEDIDOS_CREDITO_CA" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#99CCFF;strokeColor=#99CCFF;" parent="hutU6tRgzpRyq-CcQM-8-186" vertex="1" collapsed="1">
+          <mxGeometry x="31.5" y="138.75" width="226" height="30" as="geometry">
+            <mxRectangle x="1374" y="228" width="188" height="1225.7565892537436" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-273" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="hutU6tRgzpRyq-CcQM-8-272" vertex="1">
+          <mxGeometry y="30" width="188" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-274" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-273" vertex="1">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-275" value="UniqueID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-273" vertex="1">
+          <mxGeometry x="30" width="158" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-276" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="hutU6tRgzpRyq-CcQM-8-272" vertex="1">
+          <mxGeometry y="60" width="188" height="1165" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-277" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-276" vertex="1">
+          <mxGeometry width="30" height="1165" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-278" value="FIPAISID&#xa;FICANAL&#xa;FISUCURSAL&#xa;FINOPEDIDO&#xa;FINGCIOID&#xa;FINOTIENDA&#xa;FICTEID&#xa;FIDIGITOVER&#xa;FDFECHASURT&#xa;FDINIPER&#xa;FNIMPORTEABONO&#xa;FDULTPAGO&#xa;FNIMPORTEULTPAGO&#xa;FIPLAZO&#xa;FIPERIODO&#xa;FNENGANCHE&#xa;FNSALDO&#xa;FNMORATORIOS&#xa;FNSALDOATRASADO&#xa;FIPERVENCIDOS&#xa;FIPERINACTIVIDAD&#xa;FIPERATRASO&#xa;FIPERATRAACUM&#xa;FICLASIFCUENTA&#xa;FINOGESTIONES&#xa;FIGESTSINCOBRO&#xa;FDULTIMAVISITA&#xa;FIRESULUVISITA&#xa;FINOPAGOS&#xa;FDULTIMOABONO&#xa;FNULTIMOABONO&#xa;FNULTABONOMORA&#xa;FNBONIFICA&#xa;FNIMPPAGARBONIF&#xa;FIPEDSTATUS&#xa;FDFECULTACT&#xa;FIDESPID&#xa;FNSDOANTMORA&#xa;FINOVECESATR&#xa;FIRUTA&#xa;FDCSALDOCAPITAL&#xa;FDCINTXFINANCIAR&#xa;FDCSALDOORIGINAL&#xa;FDCINTTOTXATRASO&#xa;FIPAGOSCAPITAL&#xa;FIPAGOSINTERESES&#xa;FCOBSERVACION&#xa;FIDEPTOID&#xa;FIZONAID&#xa;FCEMPNUM&#xa;FDFECHACANC&#xa;FNCREDVARIOS&#xa;FISEMATRAS&#xa;FITIPODEPTO&#xa;FIUNIDADNEGOCIO&#xa;FNPRECIOD&#xa;FIIDZONACOBZA&#xa;FIIDORIGEN&#xa;FNIMPTOTVENTA&#xa;FIEMISION&#xa;FISERIE&#xa;FIPERACTUAL&#xa;FIPERCORRIDO&#xa;FISTATUSEMISION&#xa;FCFOLIOPARAM&#xa;FITIPOCLIENTE&#xa;FIDIASSERV&#xa;FIDIASGRACIA&#xa;FISTATUSREGIONAL&#xa;FCEMPNUMET&#xa;FNIMPPAGADO&#xa;FNIMPDEVENG&#xa;FNULTIMPMORA&#xa;FCSTATCARTERA&#xa;FCCLASCAR&#xa;FISALDOIDNCALVENC&#xa;FISOLICITUDID&#xa;FIPAISCU&#xa;FICANALCU&#xa;FISUCURSALCU&#xa;FIFOLIO&#xa;FNCOBROSEM&#xa;FNCOBROACUM&#xa;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-276" vertex="1">
+          <mxGeometry x="30" width="158" height="1165" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-279" value="Tabla de pedidos, con dos campos extra, cobro semanal y cobro acumulado." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hutU6tRgzpRyq-CcQM-8-186" vertex="1">
+          <mxGeometry x="71" y="80.75" width="157" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-280" value="COMP.PEDIDOS_CREDITO_CA_SURTIDOS" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;strokeColor=#E1D5E7;fillColor=#E1D5E7;" parent="hutU6tRgzpRyq-CcQM-8-186" vertex="1" collapsed="1">
+          <mxGeometry x="572.5" y="138.75" width="267" height="30" as="geometry">
+            <mxRectangle x="572.5" y="138.75" width="210.66" height="245.03309885660804" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-281" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="hutU6tRgzpRyq-CcQM-8-280" vertex="1">
+          <mxGeometry y="30" width="210.66" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-282" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-281" vertex="1">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-283" value="UniqueID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-281" vertex="1">
+          <mxGeometry x="30" width="180.66" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-284" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="hutU6tRgzpRyq-CcQM-8-280" vertex="1">
+          <mxGeometry y="60" width="210.66" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-285" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-284" vertex="1">
+          <mxGeometry width="30" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-286" value="FIPAISID&#xa;FICANAL&#xa;FISUCURSAL&#xa;FINOPEDIDO&#xa;FICTECU&#xa;FIPAISCU&#xa;CANALCU&#xa;FOLIOCU&#xa;SUCURSALCU&#xa;FINGCIOID&#xa;FICTEID&#xa;FINOTIENDA&#xa;FIDIGITOVER&#xa;FDFECHASURT&#xa;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-284" vertex="1">
+          <mxGeometry x="30" width="180.66" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-293" value="Mediante un Store Procedure se inserta solo la información de los pedidos surtidos a semana vencida." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hutU6tRgzpRyq-CcQM-8-186" vertex="1">
+          <mxGeometry x="333.5" y="128.25" width="163" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-271" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="hutU6tRgzpRyq-CcQM-8-186" source="hutU6tRgzpRyq-CcQM-8-293" target="hutU6tRgzpRyq-CcQM-8-280" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-294" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="hutU6tRgzpRyq-CcQM-8-186" source="hutU6tRgzpRyq-CcQM-8-272" target="hutU6tRgzpRyq-CcQM-8-293" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="262.5" y="153.75" as="sourcePoint" />
+            <mxPoint x="572.5" y="153.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-295" value="Tabla con las primary key de pedidos a semana vencida " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hutU6tRgzpRyq-CcQM-8-186" vertex="1">
+          <mxGeometry x="627.5" y="84.75" width="157" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-296" value="wkf_BUSCA_TASRTIMIENTOPED" style="swimlane;" parent="1" vertex="1">
+          <mxGeometry x="1736" y="205" width="871" height="286" as="geometry">
+            <mxRectangle x="845" y="-123" width="229" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-322" value="RCREDITO.TASRTIMIENTOPED" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="hutU6tRgzpRyq-CcQM-8-296" vertex="1" collapsed="1">
+          <mxGeometry x="41.75" y="164" width="226" height="30" as="geometry">
+            <mxRectangle x="41.75" y="164" width="188" height="256" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-323" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="hutU6tRgzpRyq-CcQM-8-322" vertex="1">
+          <mxGeometry y="30" width="188" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-324" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-323" vertex="1">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-325" value="UniqueID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-323" vertex="1">
+          <mxGeometry x="30" width="158" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-326" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="hutU6tRgzpRyq-CcQM-8-322" vertex="1">
+          <mxGeometry y="60" width="188" height="196" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-327" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-326" vertex="1">
+          <mxGeometry width="30" height="196" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-328" value="FIPAISID&#xa;FICANAL&#xa;FISUCURSAL&#xa;FINOPEDIDO&#xa;FCEMPNUMSURT&#xa;FDFECHASURT&#xa;FCEMPNUMORIGINA&#xa;FDFECHAORIGINA&#xa;FIANIOSURT&#xa;FISEMSURT&#xa;FIMARCA&#xa;FDFECHAACTUALIZA&#xa;FCEMPNUMACT" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-326" vertex="1">
+          <mxGeometry x="30" width="158" height="196" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-329" value="COMP.TASRTIMIENTOPED" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="hutU6tRgzpRyq-CcQM-8-296" vertex="1" collapsed="1">
+          <mxGeometry x="603.25" y="135" width="226" height="30" as="geometry">
+            <mxRectangle x="603.25" y="135" width="188" height="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-330" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="hutU6tRgzpRyq-CcQM-8-329" vertex="1">
+          <mxGeometry y="30" width="188" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-331" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-330" vertex="1">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-332" value="UniqueID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-330" vertex="1">
+          <mxGeometry x="30" width="158" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-333" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="hutU6tRgzpRyq-CcQM-8-329" vertex="1">
+          <mxGeometry y="60" width="188" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-334" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-333" vertex="1">
+          <mxGeometry width="30" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-335" value="FIPAISID&#xa;FICANAL&#xa;FISUCURSAL&#xa;FINOPEDIDO&#xa;FCEMPNUMORIGINA" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-333" vertex="1">
+          <mxGeometry x="30" width="158" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-336" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="hutU6tRgzpRyq-CcQM-8-296" source="hutU6tRgzpRyq-CcQM-8-337" target="hutU6tRgzpRyq-CcQM-8-322" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="287.75" y="121" />
+              <mxPoint x="287.75" y="179" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-337" value="COMP.PEDIDOS_CREDITO_CA" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#99CCFF;strokeColor=#99CCFF;" parent="hutU6tRgzpRyq-CcQM-8-296" vertex="1" collapsed="1">
+          <mxGeometry x="41.75" y="106" width="226" height="30" as="geometry">
+            <mxRectangle x="41.75" y="106" width="188" height="1276" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-338" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="hutU6tRgzpRyq-CcQM-8-337" vertex="1">
+          <mxGeometry y="30" width="188" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-339" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-338" vertex="1">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-340" value="UniqueID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-338" vertex="1">
+          <mxGeometry x="30" width="158" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-341" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="hutU6tRgzpRyq-CcQM-8-337" vertex="1">
+          <mxGeometry y="60" width="188" height="1165" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-342" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-341" vertex="1">
+          <mxGeometry width="30" height="1165" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-343" value="FIPAISID&#xa;FICANAL&#xa;FISUCURSAL&#xa;FINOPEDIDO&#xa;FINGCIOID&#xa;FINOTIENDA&#xa;FICTEID&#xa;FIDIGITOVER&#xa;FDFECHASURT&#xa;FDINIPER&#xa;FNIMPORTEABONO&#xa;FDULTPAGO&#xa;FNIMPORTEULTPAGO&#xa;FIPLAZO&#xa;FIPERIODO&#xa;FNENGANCHE&#xa;FNSALDO&#xa;FNMORATORIOS&#xa;FNSALDOATRASADO&#xa;FIPERVENCIDOS&#xa;FIPERINACTIVIDAD&#xa;FIPERATRASO&#xa;FIPERATRAACUM&#xa;FICLASIFCUENTA&#xa;FINOGESTIONES&#xa;FIGESTSINCOBRO&#xa;FDULTIMAVISITA&#xa;FIRESULUVISITA&#xa;FINOPAGOS&#xa;FDULTIMOABONO&#xa;FNULTIMOABONO&#xa;FNULTABONOMORA&#xa;FNBONIFICA&#xa;FNIMPPAGARBONIF&#xa;FIPEDSTATUS&#xa;FDFECULTACT&#xa;FIDESPID&#xa;FNSDOANTMORA&#xa;FINOVECESATR&#xa;FIRUTA&#xa;FDCSALDOCAPITAL&#xa;FDCINTXFINANCIAR&#xa;FDCSALDOORIGINAL&#xa;FDCINTTOTXATRASO&#xa;FIPAGOSCAPITAL&#xa;FIPAGOSINTERESES&#xa;FCOBSERVACION&#xa;FIDEPTOID&#xa;FIZONAID&#xa;FCEMPNUM&#xa;FDFECHACANC&#xa;FNCREDVARIOS&#xa;FISEMATRAS&#xa;FITIPODEPTO&#xa;FIUNIDADNEGOCIO&#xa;FNPRECIOD&#xa;FIIDZONACOBZA&#xa;FIIDORIGEN&#xa;FNIMPTOTVENTA&#xa;FIEMISION&#xa;FISERIE&#xa;FIPERACTUAL&#xa;FIPERCORRIDO&#xa;FISTATUSEMISION&#xa;FCFOLIOPARAM&#xa;FITIPOCLIENTE&#xa;FIDIASSERV&#xa;FIDIASGRACIA&#xa;FISTATUSREGIONAL&#xa;FCEMPNUMET&#xa;FNIMPPAGADO&#xa;FNIMPDEVENG&#xa;FNULTIMPMORA&#xa;FCSTATCARTERA&#xa;FCCLASCAR&#xa;FISALDOIDNCALVENC&#xa;FISOLICITUDID&#xa;FIPAISCU&#xa;FICANALCU&#xa;FISUCURSALCU&#xa;FIFOLIO&#xa;FNCOBROSEM&#xa;FNCOBROACUM&#xa;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-341" vertex="1">
+          <mxGeometry x="30" width="158" height="1165" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-344" value="Se realiza una búsqueda del empleado que origino el pedido en la tabla TASRTIMIENTOPED " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hutU6tRgzpRyq-CcQM-8-337" vertex="1">
+          <mxGeometry y="1225" width="188" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-345" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="hutU6tRgzpRyq-CcQM-8-296" source="hutU6tRgzpRyq-CcQM-8-347" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="287.75" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-346" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="hutU6tRgzpRyq-CcQM-8-296" source="hutU6tRgzpRyq-CcQM-8-347" target="hutU6tRgzpRyq-CcQM-8-329" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-347" value="Se realiza una búsqueda del empleado que origino el pedido en la tabla TASRTIMIENTOPED " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hutU6tRgzpRyq-CcQM-8-296" vertex="1">
+          <mxGeometry x="338.75" y="124.5" width="163" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-348" value="wkf_BUSCA_TASRTIMIENTOPED" style="swimlane;" parent="1" vertex="1">
+          <mxGeometry x="2771" y="-123" width="871" height="288" as="geometry">
+            <mxRectangle x="845" y="-123" width="229" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-349" value="RCREDITO.TASRTIMIENTOPED" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="hutU6tRgzpRyq-CcQM-8-348" vertex="1" collapsed="1">
+          <mxGeometry x="41.75" y="164" width="226" height="30" as="geometry">
+            <mxRectangle x="1379" y="300" width="188" height="256" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-350" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="hutU6tRgzpRyq-CcQM-8-349" vertex="1">
+          <mxGeometry y="30" width="188" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-351" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-350" vertex="1">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-352" value="UniqueID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-350" vertex="1">
+          <mxGeometry x="30" width="158" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-353" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="hutU6tRgzpRyq-CcQM-8-349" vertex="1">
+          <mxGeometry y="60" width="188" height="196" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-354" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-353" vertex="1">
+          <mxGeometry width="30" height="196" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-355" value="FIPAISID&#xa;FICANAL&#xa;FISUCURSAL&#xa;FINOPEDIDO&#xa;FCEMPNUMSURT&#xa;FDFECHASURT&#xa;FCEMPNUMORIGINA&#xa;FDFECHAORIGINA&#xa;FIANIOSURT&#xa;FISEMSURT&#xa;FIMARCA&#xa;FDFECHAACTUALIZA&#xa;FCEMPNUMACT" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-353" vertex="1">
+          <mxGeometry x="30" width="158" height="196" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-356" value="COMP.TASRTIMIENTOPED" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="hutU6tRgzpRyq-CcQM-8-348" vertex="1" collapsed="1">
+          <mxGeometry x="603.25" y="135" width="226" height="30" as="geometry">
+            <mxRectangle x="1935.5" y="425" width="188" height="139.75" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-357" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="hutU6tRgzpRyq-CcQM-8-356" vertex="1">
+          <mxGeometry y="30" width="188" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-358" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-357" vertex="1">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-359" value="UniqueID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-357" vertex="1">
+          <mxGeometry x="30" width="158" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-360" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="hutU6tRgzpRyq-CcQM-8-356" vertex="1">
+          <mxGeometry y="60" width="188" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-361" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-360" vertex="1">
+          <mxGeometry width="30" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-362" value="FIPAISID&#xa;FICANAL&#xa;FISUCURSAL&#xa;FINOPEDIDO&#xa;FCEMPNUMORIGINA" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-360" vertex="1">
+          <mxGeometry x="30" width="158" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-363" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="hutU6tRgzpRyq-CcQM-8-348" source="hutU6tRgzpRyq-CcQM-8-364" target="hutU6tRgzpRyq-CcQM-8-349" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="287.75" y="121" />
+              <mxPoint x="287.75" y="179" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-364" value="COMP.PEDIDOS_CREDITO_CA" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#99CCFF;strokeColor=#99CCFF;" parent="hutU6tRgzpRyq-CcQM-8-348" vertex="1" collapsed="1">
+          <mxGeometry x="41.75" y="106" width="226" height="30" as="geometry">
+            <mxRectangle x="1374" y="228" width="188" height="1225.7565892537436" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-365" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="hutU6tRgzpRyq-CcQM-8-364" vertex="1">
+          <mxGeometry y="30" width="188" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-366" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-365" vertex="1">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-367" value="UniqueID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-365" vertex="1">
+          <mxGeometry x="30" width="158" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-368" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="hutU6tRgzpRyq-CcQM-8-364" vertex="1">
+          <mxGeometry y="60" width="188" height="1165" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-369" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-368" vertex="1">
+          <mxGeometry width="30" height="1165" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-370" value="FIPAISID&#xa;FICANAL&#xa;FISUCURSAL&#xa;FINOPEDIDO&#xa;FINGCIOID&#xa;FINOTIENDA&#xa;FICTEID&#xa;FIDIGITOVER&#xa;FDFECHASURT&#xa;FDINIPER&#xa;FNIMPORTEABONO&#xa;FDULTPAGO&#xa;FNIMPORTEULTPAGO&#xa;FIPLAZO&#xa;FIPERIODO&#xa;FNENGANCHE&#xa;FNSALDO&#xa;FNMORATORIOS&#xa;FNSALDOATRASADO&#xa;FIPERVENCIDOS&#xa;FIPERINACTIVIDAD&#xa;FIPERATRASO&#xa;FIPERATRAACUM&#xa;FICLASIFCUENTA&#xa;FINOGESTIONES&#xa;FIGESTSINCOBRO&#xa;FDULTIMAVISITA&#xa;FIRESULUVISITA&#xa;FINOPAGOS&#xa;FDULTIMOABONO&#xa;FNULTIMOABONO&#xa;FNULTABONOMORA&#xa;FNBONIFICA&#xa;FNIMPPAGARBONIF&#xa;FIPEDSTATUS&#xa;FDFECULTACT&#xa;FIDESPID&#xa;FNSDOANTMORA&#xa;FINOVECESATR&#xa;FIRUTA&#xa;FDCSALDOCAPITAL&#xa;FDCINTXFINANCIAR&#xa;FDCSALDOORIGINAL&#xa;FDCINTTOTXATRASO&#xa;FIPAGOSCAPITAL&#xa;FIPAGOSINTERESES&#xa;FCOBSERVACION&#xa;FIDEPTOID&#xa;FIZONAID&#xa;FCEMPNUM&#xa;FDFECHACANC&#xa;FNCREDVARIOS&#xa;FISEMATRAS&#xa;FITIPODEPTO&#xa;FIUNIDADNEGOCIO&#xa;FNPRECIOD&#xa;FIIDZONACOBZA&#xa;FIIDORIGEN&#xa;FNIMPTOTVENTA&#xa;FIEMISION&#xa;FISERIE&#xa;FIPERACTUAL&#xa;FIPERCORRIDO&#xa;FISTATUSEMISION&#xa;FCFOLIOPARAM&#xa;FITIPOCLIENTE&#xa;FIDIASSERV&#xa;FIDIASGRACIA&#xa;FISTATUSREGIONAL&#xa;FCEMPNUMET&#xa;FNIMPPAGADO&#xa;FNIMPDEVENG&#xa;FNULTIMPMORA&#xa;FCSTATCARTERA&#xa;FCCLASCAR&#xa;FISALDOIDNCALVENC&#xa;FISOLICITUDID&#xa;FIPAISCU&#xa;FICANALCU&#xa;FISUCURSALCU&#xa;FIFOLIO&#xa;FNCOBROSEM&#xa;FNCOBROACUM&#xa;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-368" vertex="1">
+          <mxGeometry x="30" width="158" height="1165" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-371" value="Se realiza una búsqueda del empleado que origino el pedido en la tabla TASRTIMIENTOPED " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hutU6tRgzpRyq-CcQM-8-364" vertex="1">
+          <mxGeometry x="54" y="18.5" width="163" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-372" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="hutU6tRgzpRyq-CcQM-8-348" source="hutU6tRgzpRyq-CcQM-8-374" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="287.75" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-373" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="hutU6tRgzpRyq-CcQM-8-348" source="hutU6tRgzpRyq-CcQM-8-374" target="hutU6tRgzpRyq-CcQM-8-356" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-374" value="Se realiza una búsqueda del empleado (enrolamiento) que origino el pedido en la tabla TASRTIMIENTOPED " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hutU6tRgzpRyq-CcQM-8-348" vertex="1">
+          <mxGeometry x="338.75" y="124.5" width="163" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-425" value="wkf_BUSCA_TABITPEDSURTLIQ" style="swimlane;startSize=23;" parent="1" vertex="1">
+          <mxGeometry x="2773" y="205" width="871" height="290" as="geometry">
+            <mxRectangle x="845" y="-123" width="229" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-375" value="COMP.PEDIDOS_CREDITO_CA_SURTIDOS" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;strokeColor=#E1D5E7;fillColor=#E1D5E7;" parent="hutU6tRgzpRyq-CcQM-8-425" vertex="1" collapsed="1">
+          <mxGeometry x="37.5" y="94" width="267" height="30" as="geometry">
+            <mxRectangle x="2991" y="635" width="210.66" height="245.03309885660804" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-376" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="hutU6tRgzpRyq-CcQM-8-375" vertex="1">
+          <mxGeometry y="30" width="210.66" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-377" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-376" vertex="1">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-378" value="UniqueID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-376" vertex="1">
+          <mxGeometry x="30" width="180.66" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-379" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="hutU6tRgzpRyq-CcQM-8-375" vertex="1">
+          <mxGeometry y="60" width="210.66" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-380" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-379" vertex="1">
+          <mxGeometry width="30" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-381" value="FIPAISID&#xa;FICANAL&#xa;FISUCURSAL&#xa;FINOPEDIDO&#xa;FICTECU&#xa;FIPAISCU&#xa;CANALCU&#xa;FOLIOCU&#xa;SUCURSALCU&#xa;FINGCIOID&#xa;FICTEID&#xa;FINOTIENDA&#xa;FIDIGITOVER&#xa;FDFECHASURT&#xa;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-379" vertex="1">
+          <mxGeometry x="30" width="180.66" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-402" value="RCREDITO.TABITPEDSURTLIQ" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;strokeColor=#23445d;fillColor=#bac8d3;" parent="hutU6tRgzpRyq-CcQM-8-425" vertex="1" collapsed="1">
+          <mxGeometry x="37.5" y="162" width="267" height="30" as="geometry">
+            <mxRectangle x="2991" y="694" width="210.66" height="377.75" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-403" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="hutU6tRgzpRyq-CcQM-8-402" vertex="1">
+          <mxGeometry y="30" width="210.66" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-404" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-403" vertex="1">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-405" value="UniqueID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-403" vertex="1">
+          <mxGeometry x="30" width="180.66" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-406" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="hutU6tRgzpRyq-CcQM-8-402" vertex="1">
+          <mxGeometry y="60" width="210.66" height="314" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-407" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-406" vertex="1">
+          <mxGeometry width="30" height="314" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-408" value="FIPAIS&#xa;FICANAL&#xa;FISUCURSAL&#xa;FIFOLIO&#xa;FIFOLIOPARAMS&#xa;FINOPEDIDOLIQ&#xa;FINOPEDIDOSURT&#xa;FICANALS&#xa;FINOTIENDAS&#xa;FDREGISTRO&#xa;FIPAISTRAN&#xa;FICANALTRAN&#xa;FISUCURSALTRAN&#xa;FINOTRAN&#xa;FIPLAZO&#xa;FIPERCORRIDO&#xa;FNMONTOPREPAGO&#xa;FIESSEGURO&#xa;FINOPEDIDOPPSEG&#xa;FDULTIMA_MODIFICACION&#xa;FCUSUARIO_MODIFICO" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-406" vertex="1">
+          <mxGeometry x="30" width="180.66" height="314" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-415" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="hutU6tRgzpRyq-CcQM-8-425" source="hutU6tRgzpRyq-CcQM-8-375" target="hutU6tRgzpRyq-CcQM-8-402" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="324.5" y="109" />
+              <mxPoint x="324.5" y="177" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-416" value="dbo.TABITPEDSURTLIQ" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;strokeColor=#10739e;fillColor=#b1ddf0;" parent="hutU6tRgzpRyq-CcQM-8-425" vertex="1" collapsed="1">
+          <mxGeometry x="657.5" y="128" width="176" height="30" as="geometry">
+            <mxRectangle x="657.5" y="128" width="210.66" height="339.25" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-417" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="hutU6tRgzpRyq-CcQM-8-416" vertex="1">
+          <mxGeometry y="30" width="210.66" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-418" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-417" vertex="1">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-419" value="UniqueID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-417" vertex="1">
+          <mxGeometry x="30" width="180.66" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-420" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="hutU6tRgzpRyq-CcQM-8-416" vertex="1">
+          <mxGeometry y="60" width="210.66" height="276" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-421" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-420" vertex="1">
+          <mxGeometry width="30" height="276" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-422" value="FIPAIS&#xa;FICANAL&#xa;FISUCURSAL&#xa;FIFOLIO&#xa;FIFOLIOPARAMS&#xa;FINOPEDIDOSURT&#xa;FINOPEDIDOLIQ&#xa;FICANALS&#xa;FINOTIENDAS&#xa;FDREGISTRO&#xa;FIPAISTRAN&#xa;FICANALTRAN&#xa;FISUCURSALTRAN&#xa;FINOTRAN&#xa;FIPLAZO&#xa;FIPERCORRIDO&#xa;FNMONTOPREPAGO&#xa;FIESSEGURO&#xa;FINOPEDIDOPPSEG" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="hutU6tRgzpRyq-CcQM-8-420" vertex="1">
+          <mxGeometry x="30" width="180.66" height="276" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-455" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="hutU6tRgzpRyq-CcQM-8-425" source="hutU6tRgzpRyq-CcQM-8-452" target="hutU6tRgzpRyq-CcQM-8-416" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-457" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="hutU6tRgzpRyq-CcQM-8-425" source="hutU6tRgzpRyq-CcQM-8-452" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="325.5" y="143" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hutU6tRgzpRyq-CcQM-8-452" value="Se realiza la búsqueda de pedidos que son renovaciones" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hutU6tRgzpRyq-CcQM-8-425" vertex="1">
+          <mxGeometry x="412.5" y="117.5" width="163" height="51" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
