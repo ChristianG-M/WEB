@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-20T01:14:20.369Z" agent="5.0 (X11)" etag="Cb8JLgR0leMJebfBzAXb" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-20T01:14:36.768Z" agent="5.0 (X11)" etag="eUEIrqRaz3jW5zi2zTr5" version="13.9.9" type="github">
   <diagram id="7vvKM-h0RmsxbN4j_LpW" name="Page-1">
     <mxGraphModel dx="806" dy="1976" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -1069,9 +1069,9 @@
             <mxRectangle x="845" y="-123" width="229" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZbzUIR6lRue4rK1-tcVg-321" value="RCREDITO.CLASIFICACTEU" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="ZbzUIR6lRue4rK1-tcVg-320">
-          <mxGeometry x="14" y="164" width="188" height="256" as="geometry">
-            <mxRectangle x="14" y="164" width="253.75" height="30" as="alternateBounds" />
+        <mxCell id="ZbzUIR6lRue4rK1-tcVg-321" value="RCREDITO.CLASIFICACTEU" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" collapsed="1" parent="ZbzUIR6lRue4rK1-tcVg-320">
+          <mxGeometry x="14" y="164" width="253.75" height="30" as="geometry">
+            <mxRectangle x="14" y="164" width="188" height="663.75" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZbzUIR6lRue4rK1-tcVg-322" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZbzUIR6lRue4rK1-tcVg-321">
@@ -1084,13 +1084,13 @@
           <mxGeometry x="30" width="158" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZbzUIR6lRue4rK1-tcVg-325" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZbzUIR6lRue4rK1-tcVg-321">
-          <mxGeometry y="60" width="188" height="196" as="geometry" />
+          <mxGeometry y="60" width="188" height="604" as="geometry" />
         </mxCell>
         <mxCell id="ZbzUIR6lRue4rK1-tcVg-326" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="ZbzUIR6lRue4rK1-tcVg-325">
-          <mxGeometry width="30" height="196" as="geometry" />
+          <mxGeometry width="30" height="604" as="geometry" />
         </mxCell>
         <mxCell id="ZbzUIR6lRue4rK1-tcVg-327" value="FIPAIS&#xa;FICANAL&#xa;FISUCURSAL&#xa;FIFOLIO&#xa;FITIPODEPTO&#xa;FISEMATRASOMAX&#xa;FISEMATRASOMIN&#xa;FINOCREDITOS&#xa;FNSALDOCTE&#xa;FNSALDOATRASADOCTE&#xa;FNMORATORIOSCTE&#xa;FDFECHAULTIMOPAGO&#xa;FNULTIMOABONO&#xa;FNULTABONOMORA&#xa;FDFECHAULTIMAVISITA&#xa;FIRESULTULTIMAVISITA&#xa;FIDIAPAGO&#xa;FIDEPTOID&#xa;FCEMPNUM&#xa;FINOVECESATR&#xa;FIPERINACTIVIDADMENOR&#xa;FIPAISGEO&#xa;FICUADRANTEGEO&#xa;FIZONAGEO&#xa;FIZONACOBZA&#xa;FDFECHAULTIMAACT&#xa;FIVECESRUTA&#xa;FINOGESTIONES&#xa;FINOGESTSINCOBRO&#xa;FDULTIMOABONO&#xa;FDFECHASURTIMIENTO&#xa;FICLASIFCUENTA&#xa;FIPERATRAACUM&#xa;FIPERIODO&#xa;FIPERINACTIVIDAD&#xa;FNENGANCHE&#xa;FNIMPTOTVENTA&#xa;FIPAGOSCAPITAL&#xa;FIPAGOPUNTUAL&#xa;FIINACTIVIDAD&#xa;FIDIASATRASOMAX&#xa;FDFECHAPROXIMOPAGO" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ZbzUIR6lRue4rK1-tcVg-325">
-          <mxGeometry x="30" width="158" height="196" as="geometry" />
+          <mxGeometry x="30" width="158" height="604" as="geometry" />
         </mxCell>
         <mxCell id="ZbzUIR6lRue4rK1-tcVg-328" value="COMP.TASRTIMIENTOPED" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" collapsed="1" parent="ZbzUIR6lRue4rK1-tcVg-320">
           <mxGeometry x="603.25" y="135" width="226" height="30" as="geometry">
