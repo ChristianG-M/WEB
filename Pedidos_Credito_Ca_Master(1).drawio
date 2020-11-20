@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-20T01:17:18.236Z" agent="5.0 (X11)" etag="MDBdtEZmwBeBrUuvSYzi" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-20T01:17:26.470Z" agent="5.0 (X11)" etag="djXHDH5qR1S5HcB57j6R" version="13.9.9" type="github">
   <diagram id="7vvKM-h0RmsxbN4j_LpW" name="Page-1">
     <mxGraphModel dx="806" dy="1976" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -1069,7 +1069,7 @@
             <mxRectangle x="845" y="-123" width="229" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZbzUIR6lRue4rK1-tcVg-321" value="RCREDITO.CLASIFICACTEU" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" collapsed="1" parent="ZbzUIR6lRue4rK1-tcVg-320">
+        <mxCell id="ZbzUIR6lRue4rK1-tcVg-321" value="RCREDITO.CLASIFICACTEU" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" collapsed="1" parent="ZbzUIR6lRue4rK1-tcVg-320">
           <mxGeometry x="14" y="164" width="253.75" height="30" as="geometry">
             <mxRectangle x="14" y="164" width="188" height="663.75" as="alternateBounds" />
           </mxGeometry>
