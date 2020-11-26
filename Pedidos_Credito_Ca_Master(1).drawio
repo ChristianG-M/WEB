@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-26T02:33:35.433Z" agent="5.0 (X11)" etag="KwvGZ9OlW4lsE2eO6aV-" version="13.10.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-26T02:33:47.185Z" agent="5.0 (X11)" etag="tqZmeqGj84xE_cUPKzxa" version="13.10.1" type="github">
   <diagram id="7vvKM-h0RmsxbN4j_LpW" name="Page-1">
     <mxGraphModel dx="594" dy="1976" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -1092,9 +1092,9 @@
         <mxCell id="ZbzUIR6lRue4rK1-tcVg-327" value="FIPAIS&#xa;FICANAL&#xa;FISUCURSAL&#xa;FIFOLIO&#xa;FITIPODEPTO&#xa;FISEMATRASOMAX&#xa;FISEMATRASOMIN&#xa;FINOCREDITOS&#xa;FNSALDOCTE&#xa;FNSALDOATRASADOCTE&#xa;FNMORATORIOSCTE&#xa;FDFECHAULTIMOPAGO&#xa;FNULTIMOABONO&#xa;FNULTABONOMORA&#xa;FDFECHAULTIMAVISITA&#xa;FIRESULTULTIMAVISITA&#xa;FIDIAPAGO&#xa;FIDEPTOID&#xa;FCEMPNUM&#xa;FINOVECESATR&#xa;FIPERINACTIVIDADMENOR&#xa;FIPAISGEO&#xa;FICUADRANTEGEO&#xa;FIZONAGEO&#xa;FIZONACOBZA&#xa;FDFECHAULTIMAACT&#xa;FIVECESRUTA&#xa;FINOGESTIONES&#xa;FINOGESTSINCOBRO&#xa;FDULTIMOABONO&#xa;FDFECHASURTIMIENTO&#xa;FICLASIFCUENTA&#xa;FIPERATRAACUM&#xa;FIPERIODO&#xa;FIPERINACTIVIDAD&#xa;FNENGANCHE&#xa;FNIMPTOTVENTA&#xa;FIPAGOSCAPITAL&#xa;FIPAGOPUNTUAL&#xa;FIINACTIVIDAD&#xa;FIDIASATRASOMAX&#xa;FDFECHAPROXIMOPAGO" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="ZbzUIR6lRue4rK1-tcVg-325" vertex="1">
           <mxGeometry x="30" width="158" height="604" as="geometry" />
         </mxCell>
-        <mxCell id="ZbzUIR6lRue4rK1-tcVg-328" value="COMP.CLASIFICACIONCTEU" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="ZbzUIR6lRue4rK1-tcVg-320" vertex="1">
-          <mxGeometry x="603.25" y="135" width="188" height="171" as="geometry">
-            <mxRectangle x="603.25" y="135" width="226" height="30" as="alternateBounds" />
+        <mxCell id="ZbzUIR6lRue4rK1-tcVg-328" value="COMP.CLASIFICACIONCTEU" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="ZbzUIR6lRue4rK1-tcVg-320" vertex="1" collapsed="1">
+          <mxGeometry x="603.25" y="135" width="226" height="30" as="geometry">
+            <mxRectangle x="603.25" y="135" width="188" height="170.75" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZbzUIR6lRue4rK1-tcVg-329" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ZbzUIR6lRue4rK1-tcVg-328" vertex="1">
